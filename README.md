@@ -102,7 +102,14 @@ The robot uses differential drive control to steer and navigate by independently
 * Real-world implementation of Theo Jansen linkage mechanism
 * CAD design, simulation, fabrication, and control integration
 * Practical experience in robotics, motion systems, and rapid prototyping
-https://github.com/adityasinghmech007/Theo-Jansen-Mechanism-Robot/blob/main/Theo%20Jansen%20Video%20-%20Made%20with%20Clipchamp%20(1).mp4
+
+https://github.com/user-attachments/assets/db5363fb-af02-4a6c-a610-1e1a230a95c9
+
+
+
+
+
+
 ---
 
 ## 🚀 Learning Outcomes

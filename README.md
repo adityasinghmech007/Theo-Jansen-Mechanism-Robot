@@ -103,10 +103,8 @@ The robot uses differential drive control to steer and navigate by independently
 * CAD design, simulation, fabrication, and control integration
 * Practical experience in robotics, motion systems, and rapid prototyping
 
-https://github.com/user-attachments/assets/db5363fb-af02-4a6c-a610-1e1a230a95c9
 
-
-
+https://github.com/user-attachments/assets/19e3a132-180a-4412-b21e-966919e65c17
 
 
 

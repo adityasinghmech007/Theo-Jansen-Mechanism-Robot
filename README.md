@@ -24,6 +24,8 @@ The system uses stepper motors driven through DRV8825 motor drivers and is contr
 ---
 
 ## 🛠️ Mechanical Design
+<img width="1027" height="570" alt="image" src="https://github.com/user-attachments/assets/e68ea1e9-a630-4b0a-82fb-c171e1a31567" />
+
 
 ### CAD & Simulation
 
